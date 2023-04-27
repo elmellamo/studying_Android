@@ -10,7 +10,8 @@ A failure occurred while executing com.android.build.gradle.internal.tasks.Check
 자바로 작성하였는데도 불구하고 위의 오류가 자꾸 뜨면서 빌드오류가 생겼다.
 
 날 살린 건,,, 바로 이 링크이다.
-https://velog.io/@mraz3068/Duplicate-class-kotlin.collections.jdk8.CollectionsJDK8Kt-found-in-modules-kotlin-stdlib-1.8.0-org.jetbrains.kotlinkotlin-stdlib1.8.0-and-kotlin-stdlib-jdk8-1.7.20-org.jetbrains.kotlinkotlin-stdlib-jdk81.7.20
+
+[Velog](https://velog.io/@mraz3068/Duplicate-class-kotlin.collections.jdk8.CollectionsJDK8Kt-found-in-modules-kotlin-stdlib-1.8.0-org.jetbrains.kotlinkotlin-stdlib1.8.0-and-kotlin-stdlib-jdk8-1.7.20-org.jetbrains.kotlinkotlin-stdlib-jdk81.7.20)
 
 Kotlin 버전 두 개가 같은 프로젝트 내에 있어서 중복되어 있는 에러라고 한다.
 
