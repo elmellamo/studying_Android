@@ -6,3 +6,4 @@
 4. 안드로이드 스튜디오에 구글 맵 추가하기
 5. Duplicate class kotlin류오류
 6. com.google.android.gms:play-services-safetynet:17.0.0_해결방법
+7. Firebase Error Missing or insufficient permissions 해결방법
