@@ -15,3 +15,4 @@ Caused by: io.grpc.StatusException: PERMISSION_DENIED: Missing or insufficient p
 
 * Storage 보안규칙 쉽게 설명되어 있는 곳 : [Storage](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=lys1900&logNo=221013967856)
  
+* Firebase 보안 규칙 쉽게 설명되어 있는 곳 : [Firebase](https://fomaios.tistory.com/entry/Firebase-%EB%B3%B4%EC%95%88-%EA%B7%9C%EC%B9%99%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
